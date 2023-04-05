@@ -8,8 +8,8 @@ This repository contains the code for a Blood Bank & Donor Management System dev
 To install and run the system, follow these steps:
 
 1. Download the zip file.
-2. Extract the file and copy the `bbdms` folder.
-3. Paste the `bbdms` folder inside the root directory (for XAMPP, `xampp/htdocs`).
+2. Extract the file and copy the `WE-Project` folder.
+3. Paste the `WE-Project` folder inside the root directory (for XAMPP, `xampp/htdocs`).
 4. Open PHPMyAdmin (http://localhost/phpmyadmin).
 5. Create a database with the name `bbdms`.
 6. Import the `bbdms.sql` file.
