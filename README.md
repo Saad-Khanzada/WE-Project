@@ -39,7 +39,7 @@
 <p>This project was developed as part of the Web Engineering course at Mehran University by [Muhammad Saad, Noor Ahmed and Ritik Advani].</p>
 
 <p><strong>Note:</strong> If you encounter any issues while running the project or importing the database, please feel free to raise an issue in the GitHub repository. We would be happy to help you out!</p></html>
-## Login Details
+<h3> Login Details</h3>
 
 - Admin Login:
     - Username: admin
